@@ -1,0 +1,2 @@
+create a function that takes in default argurements of the values
+0 = 0.133 + 0.743aw + 1.463aw^2
