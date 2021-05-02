@@ -1,3 +1,8 @@
+import sympy as sym
+from main import equi_moist_cont, c , k
+c()
+k()
+a  = equi_moist_cont(c,k)
 x1 = 0
 x2 = 1
 
